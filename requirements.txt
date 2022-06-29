@@ -1,0 +1,14 @@
+OPEN CMD AND RUN THESE COMMANDS
+
+py -3 -m pip install requests
+py -3 -m pip install selenium
+py -3 -m pip install bs4
+py -3 -m pip install colorama
+py -3 -m pip install pycryptodome
+py -3 -m pip install pypiwin32
+py -3 -m pip install PIL-Tools
+py -3 -m pip install pylibcheck
+py -3 -m pip install pyinstaller
+py -3 -m pip install psutil
+py -3 -m pip install keyboard
+py -3 -m pip install httpx 
